@@ -9,11 +9,9 @@
 * Анализ данных на Python - РАНХиГС (2022 год);
 * Специалист по Data Science - SkillFactory (изучаю с 2022 года по настоящее время).
 
-> Мои дипломы и сертификаты о квалификации находятся [здесь]().   
-
 ## :books: Проекты :books:
 
-Кликни [сюда](https://github.com/Agent-66?tab=repositories) чтобы посмотреть проекты, над которыми я работал.
+> Кликни [сюда](https://github.com/Agent-66?tab=repositories) чтобы посмотреть проекты, над которыми я работал.
 
 ---
 
@@ -63,6 +61,5 @@
 ---
 
 ## :inbox_tray: Связаться со мной :inbox_tray:
-* [E-Mail](xagent66@gmail.com)
+* [E-Mail](mailto:xagent66@gmail.com)
 * [WhatsApp](https://api.whatsapp.com/send/?phone=79005812697)
-* [Telegram]()
